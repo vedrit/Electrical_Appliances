@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+electricStove,blocks,blocks,,,Electric Stove,,,,,
+electricChemLab,blocks,blocks,,,Electric Chemistry Lab,,,,,
+electricForge,blocks,blocks,,,Electric Forge,,,,,
+electricWorkbench,blocks,blocks,,,Electric Workbench,,,,,

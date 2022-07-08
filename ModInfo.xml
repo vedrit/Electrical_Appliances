@@ -1,0 +1,8 @@
+ <xml>
+ 	<ModInfo>
+ 		<Name value="Electrical Appliances" />
+ 		<Description value="Adds electric stoves and workbenches." />
+ 		<Author value="Vedrit" />
+ 		<Version value="0.1" />
+	 </ModInfo>
+ </xml>
