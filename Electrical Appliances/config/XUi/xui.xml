@@ -5,7 +5,6 @@
 			<window name="craftingInfoPanel"/>
 			<window name="windowCraftingQueue"/>
 			<window name="windowToolsCampfire" />
-			<window name="windowFuel" />
 			<window name="windowOutput" />
 			<window name="windowNonPagingHeader" />
 		</window_group>
@@ -16,7 +15,6 @@
 			<window name="windowCraftingQueue"/>
 			<window name="windowToolsForge" />
 			<window name="windowForgeInput" />
-			<window name="windowFuel" />
 			<window name="windowOutput" />
 			<window name="windowNonPagingHeader" />
 		</window_group>
@@ -33,7 +31,6 @@
 			<window name="windowCraftingList"/>
 			<window name="craftingInfoPanel"/>
 			<window name="windowCraftingQueue"/>
-			<window name="windowFuel" />
 			<window name="windowOutput" />
 			<window name="windowNonPagingHeader" />
 		</window_group>
